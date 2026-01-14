@@ -1,0 +1,17 @@
+{
+  "name": "professional_project_sup",
+  "version": "1.0.0",
+  "description": "Backend professional project set up",
+  "keywords": [
+    "zohaib",
+    "node",
+    "zb"
+  ],
+  "license": "ISC",
+  "author": "zohaib zulfiqar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
